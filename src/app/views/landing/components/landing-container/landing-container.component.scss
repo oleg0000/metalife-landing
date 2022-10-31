@@ -52,7 +52,7 @@
     }
     &::after {
         content: "";
-        background-image: url("../../../../../assets/backgrounds/pic_01.png");
+        background-image: url("/assets/backgrounds/pic_01.png");
         background-size: cover;
         filter: blur(8px);
         -webkit-filter: blur(8px);
@@ -66,7 +66,6 @@
     }
     .blue-bg {
         background: linear-gradient(180deg, rgba(1, 185, 220, 0) 0%, #1e88cf 100%);
-
         background-size: cover;
         position: absolute;
         height: 100%;
@@ -117,22 +116,22 @@
         }
     }
     &.banner-1::after {
-        background-image: url("../../../../../assets/backgrounds/ML_website_pic_01.png");
+        background-image: url("/assets/backgrounds/ML_website_pic_01.png");
     }
     &.banner-2::after {
-        background-image: url("../../../../../assets/backgrounds/ML_website_pic_02.png");
+        background-image: url("/assets/backgrounds/ML_website_pic_02.png");
     }
     &.banner-3::after {
-        background-image: url("../../../../../assets/backgrounds/ML_website_pic_03.png");
+        background-image: url("/assets/backgrounds/ML_website_pic_03.png");
     }
     &.banner-4::after {
-        background-image: url("../../../../../assets/backgrounds/ML_website_pic_04.png");
+        background-image: url("/assets/backgrounds/ML_website_pic_04.png");
     }
     &.banner-5::after {
-        background-image: url("../../../../../assets/backgrounds/ML_website_pic_05.png");
+        background-image: url("/assets/backgrounds/ML_website_pic_05.png");
     }
     &.banner-6::after {
-        background-image: url("../../../../../assets/backgrounds/ML_website_pic_06.png");
+        background-image: url("/assets/backgrounds/ML_website_pic_06.png");
     }
     .blue-bg {
         background: linear-gradient(270deg, rgba(1, 185, 220, 0) 0%, #1e88cf 100%);
